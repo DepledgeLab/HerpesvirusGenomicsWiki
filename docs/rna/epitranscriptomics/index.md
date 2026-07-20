@@ -1,3 +1,4 @@
+# epitranscriptomics
 
 Methods for detection of RNA modifications have improved substantially since the days of meRIP-Seq/m6A-Seq. Cutting-edge approaches inlcuding chemical-based sequencing techniques as well as nanopore direct RNA sequencing (DRS). While these technologies offer new opportunities to study RNA regulation, they remain limited by the lack of robust ground-truth datasets and standardized analytical guidelines. As such, the detection and removal of false positives remains a significant challenge. In the absence of validated benchmarks, orthogonal validation is strongly recommended. Ongoing methodological developments, such as [approaches to stringently filter DRS datasets to remove false positives without affecting true-positive detection](https://elifesciences.org/reviewed-preprints/110672){:target="_blank"}, are expected to improve the specificity and reproducibility.
 

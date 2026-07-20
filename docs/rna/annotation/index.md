@@ -1,4 +1,4 @@
-
+# transcriptome annotation
 
 High-resolution transcriptome annotations are a pre-requisite for advanced transcriptomic analyses, especially where long-read sequencing approaches (PacBio, nanopore DRS) are used. Existing tools that are commonly used for genome annotation in higher eukaryotes (e.g. Bambu, IsoQuant, FLAIR, etc.) perform poorly against viral transcriptomes and are generally not fit for purpose. This led to the development of several tools that are optimised for herpesviral annotation projects. Tools such as LORTIA, NAGATA, and TRIMD have been developed to facilitate herpesvirus transcriptome annotation.
 
