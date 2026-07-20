@@ -1,2 +1,2 @@
 # HerpesvirusGenomicsWiki
-Wiki-style webpage serving as a resource for all kinsd of herpesvirus genomics
+Wiki-style webpage serving as a resource for all kinds of herpesvirus genomics
