@@ -67,11 +67,12 @@ nav:
 
   - RNA analyses:
       - rna/index.md
-      - rna/nanopore-drs/index.md        
-      - rna/nanopore-drs/multiplexing.md
-      - rna/nanopore-drs/poly-a-tails.md
-      - rna/nanopore-drs/rna-modifications.md
-      - rna/nanopore-drs/alternative-apps.md   
+      - Nanopore Direct RNA Sequencing (DRS): 
+          - rna/nanopore-drs/index.md        
+          - Multiplexing approaches: rna/nanopore-drs/multiplexing.md
+          - Poly(A) tail analyses: rna/nanopore-drs/poly-a-tails.md
+          - RNA modification detection: rna/nanopore-drs/rna-modifications.md
+          - Additional applications of DRS: rna/nanopore-drs/alternative-apps.md   
 
   - References:
       - references/index.md
