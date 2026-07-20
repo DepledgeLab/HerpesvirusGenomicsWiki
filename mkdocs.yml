@@ -49,6 +49,9 @@ markdown_extensions:
   - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.caret
+  - pymdownx.tilde
+  - attr_list
 
 plugins:
   - search
@@ -73,6 +76,9 @@ nav:
         - Poly(A) tail analyses: rna/nanopore-drs/poly-a-tails.md
         - RNA modification detection: rna/nanopore-drs/rna-modifications.md
         - Additional applications of DRS: rna/nanopore-drs/alternative-apps.md   
+      - Epitranscriptomics: 
+        - rna/epitranscriptomics/index.md 
+
 
   - References:
       - references/index.md
