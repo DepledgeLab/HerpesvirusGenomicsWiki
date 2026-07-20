@@ -1,6 +1,6 @@
-site_name: My Wiki
-site_description: Personal knowledge base
-site_url: https://YOURUSERNAME.github.io/YOURREPO/
+site_name: Herpesvirus Genomics Wiki
+site_description: Herpesvirus Genomics Wiki
+site_url: https://depledgelab.github.io/HerpesvirusGenomicsWiki/
 
 theme:
   name: material
