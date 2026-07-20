@@ -78,6 +78,8 @@ nav:
         - Additional applications of DRS: rna/nanopore-drs/alternative-apps.md   
       - Epitranscriptomics: 
         - rna/epitranscriptomics/index.md 
+      - Annotation: 
+        - rna/annotation/overview.md 
 
 
   - References:
