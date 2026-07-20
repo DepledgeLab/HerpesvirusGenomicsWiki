@@ -55,11 +55,24 @@ plugins:
 
 nav:
   - Home: index.md
-  - About: about.md
-  - Getting Started: getting-started.md
-  - Guides:
-      - guides/index.md
-      - First Guide: guides/first-guide.md
-  - Reference:
-      - reference/index.md
-      - Glossary: reference/glossary.md
+
+  - Getting Started: 
+      - getting-started/index.md
+
+  - Wet lab:
+      - wet-lab/index.md
+
+  - DNA analyses:
+      - dna/index.md
+
+  - RNA analyses:
+      - rna/index.md
+      - rna/nanopore-drs/index.md        
+      - rna/nanopore-drs/multiplexing.md
+      - rna/nanopore-drs/poly-a-tails.md
+      - rna/nanopore-drs/rna-modifications.md
+      - rna/nanopore-drs/alternative-apps.md   
+
+  - References:
+      - references/index.md
+      #- Glossary: reference/glossary.md
