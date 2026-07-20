@@ -7,5 +7,5 @@ Key approaches:
 
 [Glyoxal and Nitrite-Mediated Deamination Sequencing (GLORI-Seq) for m6A detection](https://www.nature.com/articles/s41587-022-01487-9){:target="_blank"}
 
-[Nanopore direct RNA sequencing for m^6^A, m^5^C, inosine, pseudouridine, and 2’O-methylation](rna/nanopore-drs/index.md)
+[Nanopore direct RNA sequencing for m^6^A, m^5^C, inosine, pseudouridine, and 2’O-methylation](../nanopore-drs/index.md)
 

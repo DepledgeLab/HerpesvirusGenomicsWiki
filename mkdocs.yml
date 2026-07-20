@@ -79,7 +79,7 @@ nav:
       - Epitranscriptomics: 
         - rna/epitranscriptomics/index.md 
       - Annotation: 
-        - rna/annotation/overview.md 
+        - rna/annotation/index.md 
 
 
   - References:
