@@ -59,8 +59,8 @@ plugins:
 nav:
   - Home: index.md
 
-  - Getting Started: 
-      - getting-started/index.md
+  - About: 
+      - about/index.md
 
   - Viral genome analyses & comparisons:
       - dna/index.md
