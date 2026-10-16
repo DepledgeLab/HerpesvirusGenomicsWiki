@@ -62,13 +62,10 @@ nav:
   - Getting Started: 
       - getting-started/index.md
 
-  - Wet lab:
-      - wet-lab/index.md
-
-  - DNA analyses:
+  - Viral genome analyses & comparisons:
       - dna/index.md
 
-  - RNA analyses:
+  - Gene regulation - from transcriptomes to chromatin:
       - rna/index.md
       - Nanopore Direct RNA Sequencing (DRS): 
         - rna/nanopore-drs/index.md        
@@ -80,7 +77,6 @@ nav:
         - rna/epitranscriptomics/index.md 
       - Annotation: 
         - rna/annotation/index.md 
-
 
   - References:
       - references/index.md
