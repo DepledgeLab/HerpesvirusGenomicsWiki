@@ -64,6 +64,8 @@ nav:
 
   - Viral genome analyses & comparisons:
       - dna/index.md
+      - Epitranscriptomics: 
+        - dna/epigenomics/index.md 
 
   - Gene regulation - from transcriptomes to chromatin:
       - rna/index.md
