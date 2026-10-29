@@ -77,6 +77,8 @@ nav:
         - rna/epitranscriptomics/index.md 
       - Annotation: 
         - rna/annotation/index.md 
+#I wonder if we should split Annotation. The first one can be tools that links to this page above, and
+#then the second would be linking to the Table of all the herpes omics annotations
 
   - References:
       - references/index.md
