@@ -64,8 +64,6 @@ nav:
 
   - Viral genome analyses & comparisons:
       - dna/index.md
-      - Epigenomics: 
-        - dna/epigenomics/index.md 
 
   - Gene regulation - from transcriptomes to chromatin:
       - rna/index.md
@@ -77,6 +75,8 @@ nav:
         - Additional applications of DRS: rna/nanopore-drs/alternative-apps.md   
       - Epitranscriptomics: 
         - rna/epitranscriptomics/index.md 
+      - Epigenomics:
+        - dna/epigenomics/index.md
       - Annotation: 
         - rna/annotation/index.md 
 #I wonder if we should split Annotation. The first one can be tools that links to this page above, and
